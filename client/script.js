@@ -82,7 +82,8 @@ const submitHandler = async (e) => {
     else{
         const err=await response.text();
         messageDiv.innerHTML="Sorry, I am not able to understand you.Please try again :("
-        alert(err)
+        console.log(err)
+        
     }
 };
 
