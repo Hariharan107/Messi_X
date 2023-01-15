@@ -62,7 +62,7 @@ const submitHandler = async (e) => {
     loader(messageDiv)
 
 
-    const response=await fetch("https://messi-x.onrender.com",{
+    const response=await fetch("https://messi-x.onrender.com/",{
         method:'POST',
         headers:{
             "Content-Type":"application/json"
