@@ -7,6 +7,7 @@ Desktop-view
  
  Mobile-View
  
- ![WhatsApp Image 2023-01-16 at 00 18 32](https://user-images.githubusercontent.com/111693417/212561095-c3469b99-0126-43aa-b0f1-389c38a5818c.jpg)
+ ![WhatsApp Image 2023-01-25 at 23 11 56](https://user-images.githubusercontent.com/111693417/214641351-14069be5-9126-40ab-9d59-0f1bf3a1995c.jpg)
 
-<!-- ![WhatsApp Image 2023-01-16 at 00 18 32](https://user-images.githubusercontent.com/111693417/212560925-2e180e99-e4ec-4046-b13d-8b0d59498651.jpg) -->
+
+
